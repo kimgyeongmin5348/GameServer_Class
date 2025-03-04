@@ -1,1 +1,1 @@
-# GameServer_Class
+# 25년도 게임서버 수업내용과 과제들
