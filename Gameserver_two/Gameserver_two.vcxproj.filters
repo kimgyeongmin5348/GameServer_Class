@@ -19,10 +19,10 @@
     <Filter Include="Class_Constents\1weeks">
       <UniqueIdentifier>{38497aa1-6fd1-438c-812f-f26462a27420}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Chess">
+    <Filter Include="소스 파일\Chess_ProfesserCode">
       <UniqueIdentifier>{b739fad1-b96c-4949-969e-4b2bc71e2a4e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Homeworks">
+    <Filter Include="소스 파일\Homeworks_Server">
       <UniqueIdentifier>{ee472701-d069-47fd-a2ce-cb180405ffef}</UniqueIdentifier>
     </Filter>
   </ItemGroup>

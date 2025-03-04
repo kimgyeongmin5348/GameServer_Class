@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kimkh\\Desktop\\Gameserver_two\\",
+  "WorkspaceRootPath": "C:\\Users\\kimkh\\Desktop\\GameServer_Class\\Gameserver_two\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{060FFB5D-BDAD-44E9-AD3C-2B0FCF86F30D}|Gameserver_two.vcxproj|C:\\Users\\kimkh\\Desktop\\Gameserver_two\\class_contents.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{060FFB5D-BDAD-44E9-AD3C-2B0FCF86F30D}|Gameserver_two.vcxproj|C:\\Users\\kimkh\\Desktop\\GameServer_Class\\Gameserver_two\\class_contents.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{060FFB5D-BDAD-44E9-AD3C-2B0FCF86F30D}|Gameserver_two.vcxproj|solutionrelative:class_contents.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "class_contents.cpp",
-              "DocumentMoniker": "C:\\Users\\kimkh\\Desktop\\Gameserver_two\\class_contents.cpp",
+              "DocumentMoniker": "C:\\Users\\kimkh\\Desktop\\GameServer_Class\\Gameserver_two\\class_contents.cpp",
               "RelativeDocumentMoniker": "class_contents.cpp",
-              "ToolTip": "C:\\Users\\kimkh\\Desktop\\Gameserver_two\\class_contents.cpp",
+              "ToolTip": "C:\\Users\\kimkh\\Desktop\\GameServer_Class\\Gameserver_two\\class_contents.cpp",
               "RelativeToolTip": "class_contents.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-04T03:37:41.313Z",
               "EditorCaption": ""
