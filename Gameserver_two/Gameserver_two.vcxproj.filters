@@ -16,19 +16,34 @@
     <Filter Include="Class_Constents">
       <UniqueIdentifier>{65863ef7-c9ad-4e85-9c2a-4106d1edef68}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Class_Constents\1weeks">
-      <UniqueIdentifier>{38497aa1-6fd1-438c-812f-f26462a27420}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Chess_ProfesserCode">
       <UniqueIdentifier>{b739fad1-b96c-4949-969e-4b2bc71e2a4e}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\Homeworks_Server">
       <UniqueIdentifier>{ee472701-d069-47fd-a2ce-cb180405ffef}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Class_Constents\2weeks">
+      <UniqueIdentifier>{0a4aebe2-0ce7-4b99-8f8d-b27e50355e1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class_Constents\3weeks">
+      <UniqueIdentifier>{69b82a72-351f-4f79-83ce-5818b3ba41ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class_Constents\1weeks_HardWare_CPU">
+      <UniqueIdentifier>{38497aa1-6fd1-438c-812f-f26462a27420}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="class_contents.cpp">
-      <Filter>Class_Constents\1weeks</Filter>
+    <ClCompile Include="class_contents_of_1weeks.cpp">
+      <Filter>Class_Constents\1weeks_HardWare_CPU</Filter>
+    </ClCompile>
+    <ClCompile Include="class_contents_of_2weeks.cpp">
+      <Filter>Class_Constents\2weeks</Filter>
+    </ClCompile>
+    <ClCompile Include="with_professer_1week.cpp">
+      <Filter>Class_Constents\1weeks_HardWare_CPU</Filter>
+    </ClCompile>
+    <ClCompile Include="with_professer_2week.cpp">
+      <Filter>Class_Constents\2weeks</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
