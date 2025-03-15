@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kimkh\\Desktop\\GameServer_Class\\GameServer_Clients\\",
+  "WorkspaceRootPath": "D:\\4grade\\GameServer_Class\\GameServer_Clients\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCDE28E8-4419-4168-AC23-5C9304626EFD}|GameServer_Clients.vcxproj|C:\\Users\\kimkh\\Desktop\\GameServer_Class\\GameServer_Clients\\Chess_Client_Homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DCDE28E8-4419-4168-AC23-5C9304626EFD}|GameServer_Clients.vcxproj|solutionrelative:Chess_Client_Homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DCDE28E8-4419-4168-AC23-5C9304626EFD}|GameServer_Clients.vcxproj|D:\\4grade\\GameServer_Class\\GameServer_Clients\\chess_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCDE28E8-4419-4168-AC23-5C9304626EFD}|GameServer_Clients.vcxproj|solutionrelative:chess_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDE28E8-4419-4168-AC23-5C9304626EFD}|GameServer_Clients.vcxproj|D:\\4grade\\GameServer_Class\\GameServer_Clients\\chess_protocol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCDE28E8-4419-4168-AC23-5C9304626EFD}|GameServer_Clients.vcxproj|solutionrelative:chess_protocol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDE28E8-4419-4168-AC23-5C9304626EFD}|GameServer_Clients.vcxproj|D:\\4grade\\GameServer_Class\\GameServer_Clients\\chess_protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCDE28E8-4419-4168-AC23-5C9304626EFD}|GameServer_Clients.vcxproj|solutionrelative:chess_protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 228,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "chess_protocol.h",
+              "DocumentMoniker": "D:\\4grade\\GameServer_Class\\GameServer_Clients\\chess_protocol.h",
+              "RelativeDocumentMoniker": "chess_protocol.h",
+              "ToolTip": "D:\\4grade\\GameServer_Class\\GameServer_Clients\\chess_protocol.h",
+              "RelativeToolTip": "chess_protocol.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-15T05:09:32.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chess_protocol.cpp",
+              "DocumentMoniker": "D:\\4grade\\GameServer_Class\\GameServer_Clients\\chess_protocol.cpp",
+              "RelativeDocumentMoniker": "chess_protocol.cpp",
+              "ToolTip": "D:\\4grade\\GameServer_Class\\GameServer_Clients\\chess_protocol.cpp",
+              "RelativeToolTip": "chess_protocol.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T05:09:18.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Chess_Client_Homework.cpp",
-              "DocumentMoniker": "C:\\Users\\kimkh\\Desktop\\GameServer_Class\\GameServer_Clients\\Chess_Client_Homework.cpp",
-              "RelativeDocumentMoniker": "Chess_Client_Homework.cpp",
-              "ToolTip": "C:\\Users\\kimkh\\Desktop\\GameServer_Class\\GameServer_Clients\\Chess_Client_Homework.cpp",
-              "RelativeToolTip": "Chess_Client_Homework.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Title": "chess_main.cpp",
+              "DocumentMoniker": "D:\\4grade\\GameServer_Class\\GameServer_Clients\\chess_main.cpp",
+              "RelativeDocumentMoniker": "chess_main.cpp",
+              "ToolTip": "D:\\4grade\\GameServer_Class\\GameServer_Clients\\chess_main.cpp",
+              "RelativeToolTip": "chess_main.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwE4AAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T05:06:45.142Z",
+              "WhenOpened": "2025-03-15T05:09:07.45Z",
               "EditorCaption": ""
             }
           ]

@@ -45,5 +45,16 @@
     <ClCompile Include="with_professer_2week.cpp">
       <Filter>Class_Constents\2weeks</Filter>
     </ClCompile>
+    <ClCompile Include="chess_server.cpp">
+      <Filter>소스 파일\Homeworks_Server</Filter>
+    </ClCompile>
+    <ClCompile Include="chess_server_protocol.cpp">
+      <Filter>소스 파일\Homeworks_Server</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="chess_server_protocol.h">
+      <Filter>소스 파일\Homeworks_Server</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

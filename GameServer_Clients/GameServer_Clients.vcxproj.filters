@@ -13,19 +13,27 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\Chess">
-      <UniqueIdentifier>{bacf64f3-4e90-4212-a0ba-d715f9322b10}</UniqueIdentifier>
+    <Filter Include="Class_Client">
+      <UniqueIdentifier>{7724ff91-11b4-4602-ac35-d64c05e89eee}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\IOCP">
-      <UniqueIdentifier>{895dec0d-dc0f-4589-8b14-364a9cb97f69}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\MMO">
-      <UniqueIdentifier>{d34bb10c-baa9-4604-906b-b227a4bf38c9}</UniqueIdentifier>
+    <Filter Include="소스 파일\chess">
+      <UniqueIdentifier>{b9fc01ad-a719-49d4-90a9-026fca30260f}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Chess_Client_Homework.cpp">
-      <Filter>소스 파일\Chess</Filter>
+    <ClCompile Include="echo_client.cpp">
+      <Filter>Class_Client</Filter>
     </ClCompile>
+    <ClCompile Include="chess_main.cpp">
+      <Filter>소스 파일\chess</Filter>
+    </ClCompile>
+    <ClCompile Include="chess_protocol.cpp">
+      <Filter>소스 파일\chess</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="chess_protocol.h">
+      <Filter>소스 파일\chess</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
