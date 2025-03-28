@@ -22,14 +22,17 @@
     <Filter Include="소스 파일\Homeworks_Server">
       <UniqueIdentifier>{ee472701-d069-47fd-a2ce-cb180405ffef}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Class_Constents\2weeks">
-      <UniqueIdentifier>{0a4aebe2-0ce7-4b99-8f8d-b27e50355e1a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Class_Constents\3weeks">
-      <UniqueIdentifier>{69b82a72-351f-4f79-83ce-5818b3ba41ad}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Class_Constents\1weeks_HardWare_CPU">
       <UniqueIdentifier>{38497aa1-6fd1-438c-812f-f26462a27420}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class_Constents\5weeks">
+      <UniqueIdentifier>{2479e7c3-4b9b-4ecb-a622-b185213885a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class_Constents\2weeks_EchoServer">
+      <UniqueIdentifier>{0a4aebe2-0ce7-4b99-8f8d-b27e50355e1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class_Constents\4weeks_Overapped_EchoServer">
+      <UniqueIdentifier>{69b82a72-351f-4f79-83ce-5818b3ba41ad}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -37,19 +40,34 @@
       <Filter>Class_Constents\1weeks_HardWare_CPU</Filter>
     </ClCompile>
     <ClCompile Include="class_contents_of_2weeks.cpp">
-      <Filter>Class_Constents\2weeks</Filter>
+      <Filter>Class_Constents\2weeks_EchoServer</Filter>
     </ClCompile>
     <ClCompile Include="with_professer_1week.cpp">
       <Filter>Class_Constents\1weeks_HardWare_CPU</Filter>
     </ClCompile>
-    <ClCompile Include="with_professer_2week.cpp">
-      <Filter>Class_Constents\2weeks</Filter>
+    <ClCompile Include="echo_server.cpp">
+      <Filter>Class_Constents\2weeks_EchoServer</Filter>
     </ClCompile>
     <ClCompile Include="chess_server.cpp">
       <Filter>소스 파일\Homeworks_Server</Filter>
     </ClCompile>
     <ClCompile Include="chess_server_protocol.cpp">
       <Filter>소스 파일\Homeworks_Server</Filter>
+    </ClCompile>
+    <ClCompile Include="class_contents_of_4weeks.cpp">
+      <Filter>Class_Constents\4weeks_Overapped_EchoServer</Filter>
+    </ClCompile>
+    <ClCompile Include="over_echo_server.cpp">
+      <Filter>Class_Constents\4weeks_Overapped_EchoServer</Filter>
+    </ClCompile>
+    <ClCompile Include="n_over_echo_server.cpp">
+      <Filter>Class_Constents\4weeks_Overapped_EchoServer</Filter>
+    </ClCompile>
+    <ClCompile Include="chatting_server.cpp">
+      <Filter>Class_Constents\4weeks_Overapped_EchoServer</Filter>
+    </ClCompile>
+    <ClCompile Include="class_contents_of_5weeks.cpp">
+      <Filter>Class_Constents\5weeks</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

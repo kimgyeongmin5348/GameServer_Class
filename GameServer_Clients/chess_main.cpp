@@ -72,8 +72,8 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
     serverAddr.sin_port = htons(SERVER_PORT);
 
     std::string serverIP;
-
-    std::cout << "접속할 서버의 ip를 입력해 주세요(ex. 노트북 : 192.168.40.129 / 데탑 : 192.168.45.156): ";
+    std::cout << "아래에 적힌 ip주소는 제가 실행할때 수월하게 하기 위해 적어둔 것입니다." << '\n';
+    std::cout << "접속할 서버의 ip를 입력해 주세요(ex. 노트북 : 192.168.40.129 / 데탑 : 192.168.45.14): ";
     std::cin >> serverIP;
 
     //serverIP = "192.168.45.156";

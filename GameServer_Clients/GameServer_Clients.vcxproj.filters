@@ -19,21 +19,36 @@
     <Filter Include="소스 파일\chess">
       <UniqueIdentifier>{b9fc01ad-a719-49d4-90a9-026fca30260f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\chess\homework_2">
+      <UniqueIdentifier>{84023941-8f0f-42de-b896-f12d54cb6fa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\chess\homework_3">
+      <UniqueIdentifier>{323aecc2-9955-4157-9d12-73ea53948577}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="echo_client.cpp">
       <Filter>Class_Client</Filter>
     </ClCompile>
+    <ClCompile Include="over_echo_client.cpp">
+      <Filter>Class_Client</Filter>
+    </ClCompile>
     <ClCompile Include="chess_main.cpp">
-      <Filter>소스 파일\chess</Filter>
+      <Filter>소스 파일\chess\homework_2</Filter>
     </ClCompile>
     <ClCompile Include="chess_protocol.cpp">
-      <Filter>소스 파일\chess</Filter>
+      <Filter>소스 파일\chess\homework_2</Filter>
+    </ClCompile>
+    <ClCompile Include="n_over_echo_client.cpp">
+      <Filter>Class_Client</Filter>
+    </ClCompile>
+    <ClCompile Include="chatting_client.cpp">
+      <Filter>Class_Client</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="chess_protocol.h">
-      <Filter>소스 파일\chess</Filter>
+      <Filter>소스 파일\chess\homework_2</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

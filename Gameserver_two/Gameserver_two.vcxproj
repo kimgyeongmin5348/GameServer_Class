@@ -127,14 +127,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="chess_server.cpp" />
-    <ClCompile Include="chess_server_protocol.cpp" />
+    <ClCompile Include="chatting_server.cpp" />
+    <ClCompile Include="chess_server.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="chess_server_protocol.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="class_contents_of_1weeks.cpp" />
     <ClCompile Include="class_contents_of_2weeks.cpp" />
+    <ClCompile Include="class_contents_of_4weeks.cpp" />
+    <ClCompile Include="class_contents_of_5weeks.cpp" />
+    <ClCompile Include="n_over_echo_server.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="with_professer_1week.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="with_professer_2week.cpp">
+    <ClCompile Include="echo_server.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="over_echo_server.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>
